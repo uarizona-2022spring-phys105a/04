@@ -1,5 +1,6 @@
 You may accept this assignment in GitHub Classroom using this link:
-<...>
+
+    https://classroom.github.com/a/kvmaNFBm
 
 ## Assignment 04: compute pi using random number
 
