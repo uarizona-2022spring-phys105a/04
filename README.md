@@ -51,3 +51,6 @@ We suggest breaking the problem into 4 steps:
 
 4. Finally, use python's standard `argparse` to read in a command line
    argumentment and the computation of `pi`.
+   The assignment from last week will be useful:
+
+       https://github.com/uarizona-2022spring-phys105a/03/blob/main/quadratic_explained.py#L266
