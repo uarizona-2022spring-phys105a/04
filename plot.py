@@ -10,7 +10,7 @@ from matplotlib import pyplot as plt
 ns = []
 vs = []
 
-for n in [100, 200, 400, 800, 1600, 3200]:
+for n in [100, 200, 400, 800, 1600, 3200, 6400]:
     with open(f'pi-{n}.txt') as f:
         v = [float(l) for l in f]
     ns.append(n)
